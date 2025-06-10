@@ -72,7 +72,7 @@
 <img src="https://skillicons.dev/icons?i=figma" />
 
 ### 💻  **Languages**
-<img src="https://skillicons.dev/icons?i=swift,html,css" />
+<img src="https://skillicons.dev/icons?i=swift,html,css,javascript" />
 
 </td>
 </tr>
