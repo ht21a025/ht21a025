@@ -57,7 +57,13 @@
 <img src="https://skillicons.dev/icons?i=swift,xcode" />
 
 ### ☁️  **Cloud / BaaS**
-<img src="https://skillicons.dev/icons?i=firebase,aws" />
+<img src="https://skillicons.dev/icons?i=firebase,aws,vercel" />
+
+### 🌐 **Frontend / Web**
+<img src="https://skillicons.dev/icons?i=react,nextjs" />
+
+### ⚙️ **DevOps / OS**
+<img src="https://skillicons.dev/icons?i=docker,linux,ubuntu" />
 
 ### 🔧  **Development Tools**
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,git,github,postman" />
@@ -70,6 +76,9 @@
 
 ### 💻  **Languages**
 <img src="https://skillicons.dev/icons?i=swift,html,css,js,ts,java,py,cpp" />
+
+### ☕ **Backend / Frameworks**
+<img src="https://skillicons.dev/icons?i=spring" />
 
 </td>
 </tr>
