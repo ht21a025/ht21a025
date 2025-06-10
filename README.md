@@ -40,7 +40,7 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=transparent&border_radius=10" alt="readme streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ht21a025&theme=transparent&border_radius=10" alt="readme streak stats" />
 </div>
 
 <div align="center">
