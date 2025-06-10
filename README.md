@@ -22,7 +22,7 @@
 </td>
 <td width="400" align="left">
 
-### 👋 **Hi, I'm a Junior iOS Developer!**
+### 👋 **Hi, I'm Ukyo Kasai!**
 🍎 **Currently learning Swift and SwiftUI**
 
 📍 **Location:** Japan 🇯🇵  
