@@ -68,9 +68,6 @@
 ### 🗄️  **Database**
 <img src="https://skillicons.dev/icons?i=postgres" />
 
-### 🎨  **Design Tools**
-<img src="https://skillicons.dev/icons?i=figma" />
-
 ### 💻  **Languages**
 <img src="https://skillicons.dev/icons?i=swift,html,css,js,ts,java,py,cpp" />
 
