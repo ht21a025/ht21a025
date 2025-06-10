@@ -60,7 +60,7 @@
 <img src="https://skillicons.dev/icons?i=firebase,aws" />
 
 ### 🔧  **Development Tools**
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,postman" />
 
 </td>
 <td width="50%" align="center" valign="top">
@@ -72,7 +72,7 @@
 <img src="https://skillicons.dev/icons?i=figma" />
 
 ### 💻  **Languages**
-<img src="https://skillicons.dev/icons?i=swift,html,css,javascript,typescript,java,python,c++" />
+<img src="https://skillicons.dev/icons?i=swift,html,css,javascript,typescript,java,py,cpp" />
 
 </td>
 </tr>
