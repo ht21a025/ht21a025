@@ -77,8 +77,4 @@
 </td>
 </tr>
 </table>
-
-  **⭐ From [ht21a025](https://github.com/ht21a025) with ❤️**
-  
-  *"SwiftUI makes coding delightful! 🍀"*
 </div>
