@@ -57,7 +57,7 @@
 <img src="https://skillicons.dev/icons?i=swift,xcode" />
 
 ### ☁️  **Cloud / BaaS**
-<img src="https://skillicons.dev/icons?i=firebase" />
+<img src="https://skillicons.dev/icons?i=firebase,render,vercel" />
 
 ### 🔧  **Development Tools**
 <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
