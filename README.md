@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hello!+I'm+a+Junior+Engineer+👩‍💻;Learning+SwiftUI+Everyday+🍎;Building+iOS+Apps+with+Passion✨;Growing+One+Commit+at+a+Time+🌱" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hello!+I'm+Kasai+Ukyo+👩‍💻;Learning+SwiftUI+Everyday+🍎;Building+iOS+Apps+with+Passion✨;Growing+One+Commit+at+a+Time+🌱" />
 </div>
 
 ## 🌟 **About Me**
