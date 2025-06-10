@@ -60,7 +60,7 @@
 <img src="https://skillicons.dev/icons?i=firebase,aws" />
 
 ### 🔧  **Development Tools**
-<img src="https://skillicons.dev/icons?i=vscode,xcode,git,github,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
 
 </td>
 <td width="50%" align="center" valign="top">
