@@ -66,13 +66,13 @@
 <td width="50%" align="center" valign="top">
 
 ### 🗄️  **Database**
-<img src="https://skillicons.dev/icons?i=sqlite" />
+<img src="https://skillicons.dev/icons?i=postgres" />
 
 ### 🎨  **Design Tools**
 <img src="https://skillicons.dev/icons?i=figma" />
 
 ### 💻  **Languages**
-<img src="https://skillicons.dev/icons?i=swift,html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=swift,html,css,javascript,typescript,java,python,c++" />
 
 </td>
 </tr>
